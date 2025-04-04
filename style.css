@@ -1,10 +1,26 @@
+/* Eta diye shob select kore */
+*{
+font-family:'Arial'
+}
+/* eta diye tag select kore */
 p{
     color:blue;
 }
+/* eta diye class select kore */
 .heading{
-    color:green
+    color:green;
+    
 }
-
+/* eta diye id select kore */
 #head{
     color:purple;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-image: url('./img/tanjim-bhai.jpeg'); 
+    padding: 20px;
+    margin: 20px;
+    border: 20px solid red;
 }
